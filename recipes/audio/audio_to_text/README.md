@@ -15,7 +15,7 @@ The [Podman Desktop](https://podman-desktop.io) [AI Lab Extension](https://githu
 
 # Build the Application
 
-The rest of this document will explain how to build and run the application from the terminal, and will go into greater detail on how each container in the Pod above is built, run, and  what purpose it serves in the overall application. All the recipes use a central [Makefile](../../common/Makefile.common) that includes variables populated with default values to simplify getting started. Please review the [Makefile docs](../../common/README.md), to learn about further customizing your application.
+The rest of this document will explain how to build and run the application from the terminal, and will go into greater detail on how each container in the applications above is built, run, and  what purpose it serves in the overall application. All the recipes use a central [Makefile](../../common/Makefile.common) that includes variables populated with default values to simplify getting started. Please review the [Makefile docs](../../common/README.md), to learn about further customizing your application.
 
 * [Download a model](#download-a-model)
 * [Build the Model Service](#build-the-model-service)
